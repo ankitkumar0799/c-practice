@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main(){
     double first,second,temp;
-    printf("\n enter number for a:");
+    printf("\n enter number for first:");
     scanf("%lf",&first);
-    printf("\n enter number for b:");
+    printf("\n enter number for second:");
     scanf("%lf",&second);
     temp = first;
     first = second;
